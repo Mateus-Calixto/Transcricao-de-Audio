@@ -205,7 +205,8 @@ texto_audio.pack(pady=10, padx=10)
 # Inicia o loop da aplicação 
 app.mainloop()
 ```
-
+---
+![Captura de tela 2025-02-03 122051](https://github.com/user-attachments/assets/5343a00d-00b5-49e9-8e6c-bb5fb0c49921)
 ---
 
 ## **Conclusão**
